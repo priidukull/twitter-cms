@@ -1,0 +1,5 @@
+flask
+.idea
+__pycache__
+.vagrant
+*.sqlite3
